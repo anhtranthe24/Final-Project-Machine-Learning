@@ -1,0 +1,7 @@
+numpy
+opencv-python
+scikit-learn
+joblib
+qrcode[pil]
+gradio
+fastrtc

@@ -1,0 +1,15 @@
+HUONG DAN SU DUNG
+
+1. Cai dat Python 3.13.
+2. Cai dat Cloudflare Tunnel.
+3. Dam bao Cloudflare duoc cai dat dung duong dan.
+4. Mo file RUN.bat.
+5. Cho chuong trinh khoi dong.
+6. Quet ma QR bang iPhone.
+7. Cho phep truy cap camera.
+8. Bat dau nhan dien chat luong nuoc.
+
+LUU Y:
+- Khong tat cua so RUN.bat khi dang su dung.
+- May tinh phai ket noi Internet.
+- Khong can cai dat lai Flutter neu da co mobile/build/web.
