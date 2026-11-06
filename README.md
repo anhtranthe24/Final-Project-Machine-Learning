@@ -10,6 +10,9 @@ The system classifies water into three categories:
 
 The user opens the project on an iPhone, allows camera access, and the system continuously sends camera frames to the computer for real-time Machine Learning prediction.
 
+
+LINK DRIVE DATASET
+https://drive.google.com/drive/folders/1-SGgPPL5mm4TsQILv4G5uH0NTXBFw0hb?usp=sharing
 ---
 
 # 1. System Requirements
@@ -75,8 +78,6 @@ Final Project/
 ├── requirements.txt
 ├── README.md
 └── qr_code.png
-```text
 
 
-# 3. LINK DRIVE DATASET
-https://drive.google.com/drive/folders/1-SGgPPL5mm4TsQILv4G5uH0NTXBFw0hb?usp=sharing
+
